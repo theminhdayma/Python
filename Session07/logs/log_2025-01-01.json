@@ -1,0 +1,4 @@
+[
+  {"user": "A", "action": "login", "duration": 5, "date": "2025-01-01"},
+  {"user": "B", "action": "logout", "duration": 3, "date": "2025-01-02"}
+]
