@@ -1,0 +1,5 @@
+Xin chào!
+Đây là file dữ liệu.
+Python rất hữu ích.
+Viết file rất đơn giản.
+Hoàn thành yêu cầu!
