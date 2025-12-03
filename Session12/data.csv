@@ -1,0 +1,11 @@
+id,name,math_score,physics_score,chemistry_score,avg_score,rank
+SV008,Nguyen Thi H,9.2,9.0,9.5,9.23,Excellent
+SV003,Le Van C,9.0,8.5,8.0,8.5,Excellent
+SV001,Nguyen Van A,8.5,7.0,9.0,8.17,Excellent
+SV006,Do Thi F,7.5,8.0,7.0,7.5,Good
+SV010,Bui Thi K,7.0,7.5,8.0,7.5,Good
+SV002,Tran Thi B,6.0,6.5,7.0,6.5,Good
+SV007,Pham Van G,6.8,6.2,6.5,6.5,Good
+SV004,Pham Thi D,5.0,5.5,6.0,5.5,Average
+SV005,Hoang Van E,4.5,5.0,4.0,4.5,Weak
+SV009,Vo Van I,3.5,4.0,4.5,4.0,Weak
