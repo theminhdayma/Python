@@ -2,7 +2,7 @@
     'name': 'Product Management',
     'summary': 'Basic product model demo',
     'description': 'Demo module defining a simple product model with basic field types.',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Tools',
     'author': 'Demo Student',
     'website': 'https://example.com',

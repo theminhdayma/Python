@@ -1,16 +1,22 @@
+# -*- coding: utf-8 -*-
 {
-    'name': 'Estate Management',
-    'summary': 'Customers and their estate properties',
-    'description': 'Demo module showing One2many and Many2one relationships between Customer and EstateProperty.',
-    'version': '16.0.1.0.0',
-    'category': 'Sales',
-    'author': 'Demo Student',
-    'website': 'https://example.com',
-    'license': 'LGPL-3',
+    'name': "Estate Management",
+    'summary': "Module quản lý bất động sản",
+    'description': """
+        Module quản lý bất động sản với mối quan hệ Many2one/One2many
+    """,
+
+    'website': "https://www.yourcompany.com",
+    'category': 'Uncategorized',
+    'version': '0.1',
     'depends': ['base'],
-    'data': [],
+    'data': [
+        # 'security/estate_security.xml',  # Load trước
+        # 'security/ir.model.access.csv',
+        # 'views/views.xml',
+    ],
     'installable': True,
     'application': True,
-    'auto_install': False,
+    'author': 'Thế Minh',
+    'lincense': 'LGPL-3'
 }
-
